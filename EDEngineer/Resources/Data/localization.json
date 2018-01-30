@@ -321,7 +321,7 @@
       "es": "Alta Resistencia",
       "pt": "Alta Resistência",
       "de": "Schwer",
-      "fr": "Renforts de coque lourd",
+      "fr": "Renfort Lourd",
       "ru": "Усиленный",
       "pl": "Heavy Duty"
     },
@@ -329,7 +329,7 @@
       "es": "Carga Mejorada",
       "pt": "Recarga Melhorada",
       "de": "Ladungsoptimiert",
-      "fr": "Répartiteur de puissance rapide",
+      "fr": "Répartiteur de puissance rapide""Charge améliorée",
       "ru": "Быстрозарядный",
       "pl": "Charge Enhanced"
     },
@@ -2129,7 +2129,7 @@
       "es": "Material desconocido, contacta con el autor  ! {0}",
       "pt": "Material Thargoid, entre em contato com o autor! {0}",
       "de": "Unbekanntes Material, bitte kontaktieren Sie den Autor ! {0}",
-      "fr": "Matériau inconnu, contactez l'auteur ! {0}",
+      "fr": "Matériel inconnu, contactez l'auteur ! {0}",
       "ru": "Неизвестный материал, пожалуйста свяжитесь с автором ! {0}",
       "pl": "Nieznany materiał, skontaktuj się z autorem ! {0}"
     },
@@ -2425,7 +2425,7 @@
       "es": "Punto de datos de superficie",
       "pt": "Ponto de dados de suferfície",
       "de": "POI-Datenpunkt",
-      "fr": "POI",
+      "fr": "Point d'accès de Surface",
       "ru": "Наземные точки данных",
       "pl": "Skanowanie planetarnego POI"
     },
@@ -3457,7 +3457,7 @@
       "es": null,
       "pt": "Ingrediente não reconhecido (mostrando o nome como aparece nos registros). Abra um problema do GitHub para que o autor saiba qual é o nome verdadeiro disso!",
       "de": null,
-      "fr": null,
+      "fr": "Ingrédient non reconnu (montre le nom tel qu'il apparaît dans les journaux). S'il vous plaît ouvrez un problème GitHub pour informer l'auteur de quel est le vrai nom !",
       "ru": "Нераспознанный ингредиент (отображается название из логов). Пожалуйста, создайте issue на GitHub, чтобы оповестить разработчика о фактическом названии!",
       "pl": null
     } 
